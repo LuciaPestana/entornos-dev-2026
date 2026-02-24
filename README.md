@@ -20,7 +20,7 @@ Este espacio está destinado a la implementación y seguimiento de prácticas pr
 ## 💻 Tecnologías Previstas
 Para este módulo, utilizaremos un stack tecnológico de última generación:
 
-* **Lenguajes:** Java (Oracle OpenJDK 24) y Python 3.13.
+* **Lenguajes:** Java (Oracle OpenJDK 24) 
 * **Control de Versiones:** Git & GitHub.
 * **IDE:** IntelliJ IDEA Ultimate (Licencia Educativa).
 
